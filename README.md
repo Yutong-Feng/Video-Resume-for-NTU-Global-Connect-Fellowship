@@ -49,5 +49,4 @@
 
 ---
 
-*This repository adheres to HKUST(GZ) academic integrity guidelines.  
-Last updated: 2025.02.28*
+*Last updated: 2025.02.28*
