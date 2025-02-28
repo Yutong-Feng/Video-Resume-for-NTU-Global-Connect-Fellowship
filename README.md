@@ -22,7 +22,7 @@
 
 ## 🎯 Video Content Overview
 
-**Duration**: 2:29
+**Duration**: 2min29s
 
 **Key Sections**:
 
@@ -48,5 +48,3 @@
 👔LinkedIn: [https://www.linkedin.com/in/yutong-feng-caspian](https://www.linkedin.com/in/yutong-feng-caspian)
 
 ---
-
-*Last updated: 2025.02.28*
