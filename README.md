@@ -23,8 +23,13 @@
 
 **Duration**: 2:29
 **Key Sections**:
-- Academic Background & Research Achievements (IJCAI 2023 First-Author Publication, National Scholarship recipient)
+- Academic Background & Research Achievements
+  - IJCAI 2023 First-Author Publication
+  - National Scholarship recipient
 - NTU GCF Program Motivations
+  - Academic Synergy
+  - Urban Innovation Ecosystem
+  - Mentorship Legacy
 - Research Proposal Highlights:  
   - Spatio-Temporal Foundation Models for Smart Cities
   - Reinforcement Learning in Urban Computing Systems
