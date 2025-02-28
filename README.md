@@ -2,7 +2,7 @@
 
 **Candidate**: Yutong Feng
 
-**Current Position**: Second-Year MPhil Student in Data Science & Analytics, HKUST(GZ)  
+**Current Position**: Second-Year MPhil Student in Data Science & Analytics, HKUST(GZ campus)  
 
 **Research Focus**: Spatio-Temporal Data Mining • Urban Computing • AI for Social Computing  
 
