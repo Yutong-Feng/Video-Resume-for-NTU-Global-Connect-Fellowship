@@ -13,6 +13,7 @@
 [![Academic Video Submission](https://img.shields.io/badge/Video-Submission-blue?logo=google-drive&style=for-the-badge)](https://drive.google.com/file/d/1siQf1vOWmfYGfSCz2IzOO_Etn_gc7Tad/view?usp=sharing)
 
 ### Immediate Access Options:
+
 1. ​**Google Drive**​  
    → [Click here to access my GCF application video](https://drive.google.com/file/d/1siQf1vOWmfYGfSCz2IzOO_Etn_gc7Tad/view?usp=sharing)  
    *(Recommended for NTU admissions committee members)*
@@ -22,7 +23,9 @@
 ## 🎯 Video Content Overview
 
 **Duration**: 2:29
+
 **Key Sections**:
+
 - Academic Background & Research Achievements
   - IJCAI 2023 First-Author Publication
   - National Scholarship recipient
